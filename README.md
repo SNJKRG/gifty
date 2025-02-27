@@ -32,4 +32,4 @@ npm run build
 I designed this project as part of a telegram contest. 
 
 ## Source
-[Если вы чем-то вдохновлялись, расскажите об этом: где брали идеи, какие туториалы смотрели, ссылки на исходники кода. ](https://t.me/CryptoBotRU/365)
+https://t.me/CryptoBotRU/365
