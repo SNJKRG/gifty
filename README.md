@@ -1,2 +1,6 @@
 # gifty
-Gifty is a Telegram mini app
+A Telegram mini app
+
+This is only a frontend part.
+
+
