@@ -1,9 +1,20 @@
- HEAD
 # gifty
 A Telegram mini app
 
 This is only a frontend part.
 
+Getting Started
+
+First, run the development server:
+
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+Open http://localhost:5173 with your browser to see the result.
 
 
 # React + Vite
